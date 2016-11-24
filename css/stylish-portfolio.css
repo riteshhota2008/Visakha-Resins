@@ -222,12 +222,12 @@ hr.small {
 
 /* Map */
 
-.map {
+.maps {
     height: 500px;
 }
 
 @media(max-width:768px) {
-    .map {
+    .maps{
         height: 75%;
     }
 }
